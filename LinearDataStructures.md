@@ -6,7 +6,7 @@ LINEAR DATA STRUCTURES: Each element is attached to its previous and next elemen
      <br>
      They are efficient in data management as they are dynamic during runtime
      <br>
-     In this data structures the data is present on the same line which allows single traversion for all the data 
+     In this data structures the data is present on the same level which allows single traversion for all the data 
      <br>
      Time complexity increases as Data size increases
      <br>
