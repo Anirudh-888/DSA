@@ -6,7 +6,9 @@ Example code:
 <br>
 int n = 10;
 <br>
-for(int i = 0;i < n ; i = i*10){//The input given here is larger i = i * 10;
+for(int i = 0;i < n ; i = i*10){
+<br>
+//The input given here is larger i = i * 10;
 <br>
 //The output given here is small only i is given.
 <br>
