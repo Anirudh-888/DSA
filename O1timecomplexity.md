@@ -10,4 +10,6 @@ int[] array = {1,2,3,4,5};
 <br>
 System.out.println(array[1]);//To give any index it will take the same amount of time
 <br>
+<br>
+<br>
 ![alt text](image-1.png)
